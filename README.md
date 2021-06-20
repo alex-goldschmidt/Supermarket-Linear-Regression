@@ -7,3 +7,6 @@ For this project, I used the "Supermarket sales" dataset on Kaggle (cited in the
 # Documentation and current version
 
 https://github.com/alex-goldschmidt/my-projects/blob/main/Supermarket%20Sales%20Linear%20Regression.ipynb
+
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details
